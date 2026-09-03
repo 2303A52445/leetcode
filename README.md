@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/2303A52445/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/2303A52445/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/2303A52445/leetcode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/2303A52445/leetcode/tree/master/1729-find-followers-count) |
 ## Array
 |  |
 | ------- |
