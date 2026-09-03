@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/2303A52445/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/2303A52445/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/2303A52445/leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
