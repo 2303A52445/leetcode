@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/2303A52445/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/2303A52445/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/2303A52445/leetcode/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/2303A52445/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/2303A52445/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
